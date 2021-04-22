@@ -1,0 +1,40 @@
+{
+	"name": "estudio447/php-common",
+	"type": "library",
+	"version": "1.0.0",
+	"license": "proprietary",
+	"description": "PHP common dependencies",
+	"homepage": "http://www.estudio447.com",
+	
+	"keywords": [
+		"estudio447"
+	],
+	
+	"authors": [
+		{
+			"name": "Estudio447",
+			"email": "info@estudio447.com",
+			"homepage": "http://www.estudio447.com",
+			"role": "Developer"
+		}
+	],
+	
+	"support": {
+		"email": "info@estudio447.com"
+	},
+	
+	"autoload": {
+		
+	},
+			
+	"require": {
+		"php": "7.x",
+		"phpmailer/phpmailer": "5.2.7",
+		"doctrine/orm": "*"
+	},
+	
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
+
+		
