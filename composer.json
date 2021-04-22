@@ -28,10 +28,7 @@
 	},
 	
 	"repositories": [
-		{
-			"type": "vcs",
-			"url": "git@github.com:estudio447/php-lib.git"
-		}
+		
 	],
 			
 	"require": {
