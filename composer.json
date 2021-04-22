@@ -2,7 +2,7 @@
 	"name": "estudio447/php-common",
 	"type": "library",
 	"version": "1.0.0",
-	"license": "proprietary",
+	"license": "propietary",
 	"description": "PHP common dependencies",
 	"homepage": "http://www.estudio447.com",
 	
@@ -29,6 +29,7 @@
 			
 	"require": {
 		"php": "7.x",
+		"estudio447/php-lib": "*",
 		"phpmailer/phpmailer": "5.2.7",
 		"doctrine/orm": "*"
 	},
