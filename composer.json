@@ -28,10 +28,7 @@
 	},
 			
 	"require": {
-		"php": "7.x",
-		"estudio447/php-lib": "*",
-		"phpmailer/phpmailer": "5.2.7",
-		"doctrine/orm": "*"
+		"estudio447/php-lib": "*"
 	},
 	
 	"minimum-stability": "dev",
